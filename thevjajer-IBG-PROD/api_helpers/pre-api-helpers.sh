@@ -1,5 +1,5 @@
 #!/bin/bash
 
 echo "Executing Pre-API Helpers"
-echo "santu vpc testing"
+echo "santu DynamoDB testing for DevOps team"
 python ./$CUSTOMIZATION/api_helpers/python/dynamodb_cloud5data.py
